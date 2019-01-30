@@ -57,7 +57,7 @@ a:hover {
 
 header {
   text-align: center;
-  background: url('/images/cornwall-scenery.jpg') no-repeat top center ;
+  background: url('Images/portland.jpg') no-repeat centre center ;
   background-size: cover;
   overflow: hidden;
   padding-top: 60px;
